@@ -1,0 +1,9 @@
+# RNN
+- 简述RNN，LSTM，GRU的区别和联系
+- 画出lstm的结构图，写出公式
+- RNN的梯度消失问题？如何解决？
+- lstm中是否可以用relu作为激活函数？
+- lstm各个门分别使用什么激活函数？
+- 简述seq2seq模型？
+- seq2seq在解码时候有哪些方法？
+- Attention机制是什么？
